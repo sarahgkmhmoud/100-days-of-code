@@ -6,7 +6,7 @@
 **Today's Progress**: Solve the first matter in a regular way, it passed from regular test cases but it failed with hard test cases.
 
 **Thoughts:** I need to learn how I optimize my code because of not exceeding the limited time.
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 217-containsduplicate.c
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
